@@ -1,6 +1,6 @@
 # Implementing-Dense-Match-Summarization-for-Faster-Two-View-Estimation
 
-For the video demonstration of this repo, please find the video at [placeholder].  
+For the video demonstration of this repo, please find the video at https://drive.google.com/drive/folders/17wto86yyZBTFk42xB1FEJAylSF0DhrzY?usp=sharing.  
 In addition, the project report is named "Project_Report" in the repo.  
 
 A brief overview of the pipeline folder:  
